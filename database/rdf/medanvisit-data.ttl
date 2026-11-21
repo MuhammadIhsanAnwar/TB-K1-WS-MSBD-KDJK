@@ -958,7 +958,8 @@ res:taman-cadika a mv:RuangPublik ;
     mv:kelurahan "Pangkalan Masyhur" ;
     mv:jamBuka "06:00:00"^^xsd:time ;
     mv:jamTutup "22:00:00"^^xsd:time ;
-    dcterms:source <https://sumut.antaranews.com/berita/588991/bobby-apresiasi-wajah-baru-taman-cadika-medan> .
+    dcterms:source <https://sumut.antaranews.com/berita/588991/bobby-apresiasi-wajah-baru-taman-cadika-medan> ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/taman-cadika.jpg> .
 
 res:taman-ahmad-yani a mv:RuangPublik ;
     rdfs:label "Taman Ahmad Yani"@id ;
@@ -977,7 +978,8 @@ res:taman-ahmad-yani a mv:RuangPublik ;
     mv:kelurahan "Jati" ;
     mv:jamBuka "00:00:00"^^xsd:time ;
     mv:jamTutup "23:59:00"^^xsd:time ;
-    dcterms:source <https://sumut.idntimes.com/travel/destination/8-taman-kota-di-medan-tempat-terbaik-untuk-bersantai-dan-rekreasi-c1c2-01-2j5kq-dt7jcc> .
+    dcterms:source <https://sumut.idntimes.com/travel/destination/8-taman-kota-di-medan-tempat-terbaik-untuk-bersantai-dan-rekreasi-c1c2-01-2j5kq-dt7jcc> ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/taman-ahmad-yani.jpg> .
 
 res:taman-beringin a mv:RuangPublik ;
     rdfs:label "Taman Beringin"@id ;
@@ -996,7 +998,8 @@ res:taman-beringin a mv:RuangPublik ;
     mv:kelurahan "Madras Hulu" ;
     mv:jamBuka "06:00:00"^^xsd:time ;
     mv:jamTutup "22:00:00"^^xsd:time ;
-    dcterms:source <https://www.detik.com/sumut/berita/d-8455293/warga-berharap-fasilitas-di-taman-beringin-medan-lebih-terawat> .
+    dcterms:source <https://www.detik.com/sumut/berita/d-8455293/warga-berharap-fasilitas-di-taman-beringin-medan-lebih-terawat> ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/taman-beringin.jpg> .
 
 res:taman-teladan a mv:RuangPublik ;
     rdfs:label "Taman Teladan"@id ;
@@ -1031,7 +1034,8 @@ res:taman-gajah-mada a mv:RuangPublik ;
     schema:isAccessibleForFree true ;
     mv:jamBuka "00:00:00"^^xsd:time ;
     mv:jamTutup "23:59:00"^^xsd:time ;
-    dcterms:source <https://sumut.idntimes.com/travel/destination/5-fakta-unik-taman-gajah-mada-medan-ruang-hijau-favorit-warga-kota-c1c2-01-2j5kq-dst53d> .
+    dcterms:source <https://sumut.idntimes.com/travel/destination/5-fakta-unik-taman-gajah-mada-medan-ruang-hijau-favorit-warga-kota-c1c2-01-2j5kq-dst53d> ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/taman-gajah-mada.jpg> .
 
 res:taman-budaya-medan a mv:RuangPublik ;
     rdfs:label "Taman Budaya Medan"@id ;
@@ -1067,7 +1071,8 @@ res:avros-park a mv:RuangPublik ;
     mv:kelurahan "Kampung Baru" ;
     mv:jamBuka "09:00:00"^^xsd:time ;
     mv:jamTutup "23:00:00"^^xsd:time ;
-    dcterms:source <https://www.detik.com/sumut/wisata/d-7399272/avros-park-daya-tarik-lokasi-jam-buka-harga-dan-rute> .
+    dcterms:source <https://www.detik.com/sumut/wisata/d-7399272/avros-park-daya-tarik-lokasi-jam-buka-harga-dan-rute> ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/avros-park.webp> .
 
 res:lapangan-benteng a mv:RuangPublik ;
     rdfs:label "Lapangan Benteng"@id ;
@@ -1086,7 +1091,8 @@ res:lapangan-benteng a mv:RuangPublik ;
     mv:kelurahan "Petisah Tengah" ;
     mv:jamBuka "00:00:00"^^xsd:time ;
     mv:jamTutup "23:59:00"^^xsd:time ;
-    dcterms:source <https://kumparan.com/jendela-dunia/lapangan-benteng-medan-untuk-olahraga-fasilitas-alamat-jam-buka-dan-aksesnya-21iDvKcam1P> .
+    dcterms:source <https://kumparan.com/jendela-dunia/lapangan-benteng-medan-untuk-olahraga-fasilitas-alamat-jam-buka-dan-aksesnya-21iDvKcam1P> ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/lapangan-benteng.jpg> .
 
 res:delipark-mall a mv:PusatBelanja ;
     rdfs:label "DeliPark Mall"@id ;
@@ -3990,7 +3996,8 @@ res:kenanga-garden a mv:RuangPublik ;
     mv:jamTutup "21:00:00"^^xsd:time ;
     dcterms:source <https://www.detik.com/sumut/wisata/d-6754321/kenanga-garden-medan-lokasi-harga-tiket> ;
     mv:hargaTiketMulai 10000 ;
-    mv:hargaContoh false .
+    mv:hargaContoh false ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/kenanga-garden.jpg> .
 
 res:citraland-gama-city a mv:RuangPublik ;
     rdfs:label "CitraLand Gama City"@id ;
@@ -4008,7 +4015,8 @@ res:citraland-gama-city a mv:RuangPublik ;
     schema:isAccessibleForFree true ;
     mv:jamBuka "06:00:00"^^xsd:time ;
     mv:jamTutup "22:00:00"^^xsd:time ;
-    dcterms:source <https://citralandgamacity.com> .
+    dcterms:source <https://citralandgamacity.com> ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/citraland-gamacity.jpg> .
 
 res:kampung-nelayan-warna-warni-belawan a mv:RuangPublik ;
     rdfs:label "Kampung Nelayan Warna-Warni Belawan"@id ;
@@ -4046,7 +4054,8 @@ res:the-le-hu-garden a mv:RuangPublik ;
     mv:jamTutup "18:00:00"^^xsd:time ;
     dcterms:source <https://www.detik.com/sumut/wisata/d-6821450/the-le-hu-garden-harga-tiket-dan-wahana> ;
     mv:hargaTiketMulai 20000 ;
-    mv:hargaContoh false .
+    mv:hargaContoh false ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/the-le-hu-garden.jpg> .
 
 res:kampoeng-ladang-outbound-family-recreation a mv:RuangPublik ;
     rdfs:label "Kampoeng Ladang Outbound & Family Recreation"@id ;
@@ -4066,7 +4075,8 @@ res:kampoeng-ladang-outbound-family-recreation a mv:RuangPublik ;
     mv:jamTutup "17:30:00"^^xsd:time ;
     dcterms:source <https://www.tripadvisor.co.id/Attraction_Review-g297725-d7184920-Kampoeng_Ladang-Medan> ;
     mv:hargaTiketMulai 20000 ;
-    mv:hargaContoh false .
+    mv:hargaContoh false ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/kampoeng-ladang-outbound.webp> .
 
 res:taman-burung-cemara-asri a mv:RuangPublik ;
     rdfs:label "Taman Burung Cemara Asri"@id ;
@@ -4084,7 +4094,8 @@ res:taman-burung-cemara-asri a mv:RuangPublik ;
     schema:isAccessibleForFree true ;
     mv:jamBuka "06:00:00"^^xsd:time ;
     mv:jamTutup "19:00:00"^^xsd:time ;
-    dcterms:source <https://www.idntimes.com/travel/destination/taman-burung-cemara-asri-medan> .
+    dcterms:source <https://www.idntimes.com/travel/destination/taman-burung-cemara-asri-medan> ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/taman-burung-cemara-asri.jpg> .
 
 res:penangkaran-buaya-asam-kumbang a mv:RuangPublik ;
     rdfs:label "Penangkaran Buaya Asam Kumbang"@id ;
@@ -4104,7 +4115,8 @@ res:penangkaran-buaya-asam-kumbang a mv:RuangPublik ;
     mv:jamTutup "17:00:00"^^xsd:time ;
     dcterms:source <https://www.usu.ac.id/id/kehidupan-kampus/wisata-kota-medan/penangkaran-buaya-asam-kumbang> ;
     mv:hargaTiketMulai 10000 ;
-    mv:hargaContoh false .
+    mv:hargaContoh false ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/penangkaran-buaya-asam-kumbang.jpeg> .
 
 res:danau-siombak a mv:RuangPublik ;
     rdfs:label "Danau Siombak"@id ;
@@ -4735,7 +4747,8 @@ res:central-park-zoo-resort a mv:RuangPublik ;
     mv:jamTutup "17:30:00"^^xsd:time ;
     dcterms:source <https://www.instagram.com/cpzooandresort/> ;
     mv:hargaTiketMulai 40000 ;
-    mv:hargaContoh false .
+    mv:hargaContoh false ;
+    schema:image <https://medanvisit.neoverse.my.id/images/foto/central-zoo-park-resort.webp> .
 
 res:nakny-funland a mv:RuangPublik ;
     rdfs:label "Nakny Funland"@id ;

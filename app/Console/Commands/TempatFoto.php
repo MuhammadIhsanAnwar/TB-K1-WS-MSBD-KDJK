@@ -49,6 +49,10 @@ class TempatFoto extends Command
         'museum-negeri-sumut' => 'museum-negeri-sumatera-utara',
         'tembakau-deli-1897' => 'era-tembakau-deli',
         'tjong-a-fie-arsip' => 'tjong-a-fie',
+        'taman-sri-deli-medan' => 'taman-sri-deli',
+        'citraland-gamacity' => 'citraland-gama-city',
+        'kampoeng-ladang-outbound' => 'kampoeng-ladang-outbound-family-recreation',
+        'central-zoo-park-resort' => 'central-park-zoo-resort',
     ];
 
     public function handle(): int
